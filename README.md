@@ -82,7 +82,7 @@ Assurez-vous d'avoir **Python 3.8+** installé sur votre machine.
 
 ### 2. Cloner le projet
 ```bash
-git clone https://github.com/votre-utilisateur/shooter.git
+git clone https://github.com/Vianology/Shooter.git
 cd shooter
 ```
 
